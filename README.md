@@ -15,7 +15,7 @@
   <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
 
 
-Hey! Tenho 23 anos e estudo Análise e Desensolvimento de Sistema na SPTech School.
+ Tenho 23 anos e estudo Análise e Desensolvimento de Sistema na SPTech School.
 Meu Spotify:
 <a href="https://open.spotify.com/user/shininglines">
   

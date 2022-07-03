@@ -16,7 +16,7 @@
 
 
  Tenho 23 anos e estudo Análise e Desensolvimento de Sistema na SPTech School.
- Desenvolvedora SAP Funcional na EY 💛 #BeYellow
+<br> Desenvolvedora SAP Funcional na EY 💛 #BeYellow
 
 
 

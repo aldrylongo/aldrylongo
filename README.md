@@ -16,12 +16,7 @@
 
 
  Tenho 23 anos e estudo Análise e Desensolvimento de Sistema na SPTech School.
-Meu Spotify:
-<a href="https://open.spotify.com/user/shininglines">
-  
-  <img alt="Marte's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> playlists if you ❤ listening to music while you code.
-
+ Desenvolvedora SAP Funcional na EY 💛 #BeYellow
 
 
 

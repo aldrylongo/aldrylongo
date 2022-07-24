@@ -12,7 +12,7 @@
 ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
   ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=Bem+Vindo)
-  <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
+  <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=aldrylongo&label=visitors&color=31c442&style=plastic" alt="aldrylongo" /> </p>
 
 
  Tenho 23 anos e estudo Análise e Desensolvimento de Sistema na SPTech School.

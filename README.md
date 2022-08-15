@@ -16,7 +16,7 @@
 
 
  Tenho 23 anos e estudo Análise e Desensolvimento de Sistema na SPTech School.
-<br> Desenvolvimento e sustentação na EY 💛 #BeYellow
+<br> Estagiária em Solution Delivery SAP na EY 💛 #BeYellow
 
 
 

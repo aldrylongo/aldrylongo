@@ -15,7 +15,7 @@
   <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=aldrylongo&label=visitors&color=31c442&style=plastic" alt="aldrylongo" /> </p>
 
 
- Tenho 23 anos e estudo Análise e Desensolvimento de Sistema na SPTech School.
+ Tenho 24 anos e estudo Análise e Desensolvimento de Sistema na SPTech School.
 <br> Estagiária em Solution Delivery SAP na EY 💛 #BeYellow
 
 

@@ -2,7 +2,7 @@
   
   
   
-  Hey, Eu sou a Marte!
+  Hey, Eu sou a Aldry!
   
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
@@ -15,8 +15,8 @@
   <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=aldrylongo&label=visitors&color=31c442&style=plastic" alt="aldrylongo" /> </p>
 
 
- Tenho 24 anos e estudo Análise e Desensolvimento de Sistema na SPTech School.
-<br> Estagiária em Solution Delivery SAP na EY 💛 #BeYellow
+ Tenho 26 anos e sou formada em Análise e Desensolvimento de Sistema na SPTech School.
+<br> Consulta SAP na EY 💛 #BeYellow
 
 
 
